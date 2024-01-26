@@ -6,10 +6,10 @@
 ### <div align="center">Привет, меня зовут Алексей!</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 Я начинающий веб разработчик
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 Завершил курсы по веб-разработке в школе школе программной инженерии города Волгограда https://seschool.ru/
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
