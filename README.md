@@ -32,7 +32,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
         <a href="https://instagram.com/selfxp34)" target="_blank">
-      <img src="https://static.tildacdn.com/tild3632-3833-4136-b264-646531663566/noroot.png" width="40" height="40" alt="instagram"/>
+      <img src="https://static.tildacdn.com/tild3632-3833-4136-b264-646531663566/noroot.png" width="45" height="45" alt="instagram"/>
     </a>
 
 
