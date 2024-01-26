@@ -74,7 +74,7 @@
 <table>
   <tr>
     <td>
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfxp34)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfxp34&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
