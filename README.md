@@ -32,7 +32,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
         <a href="https://instagram.com/selfxp34)" target="_blank">
-      <img src="https://www.internetmatters.org/wp-content/uploads/2020/01/Untitled-1-300x200.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://www.internetmatters.org/wp-content/uploads/2020/01/Untitled-1-300x200.png" width="60" height="40" alt="VK Badge"/>
     </a>
 
 
@@ -50,7 +50,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
 </div>
 
 ---
