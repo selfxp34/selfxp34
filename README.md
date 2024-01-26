@@ -31,8 +31,11 @@
     <a href="https://vk.com/self34" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
+        <a href="https://instagram.com/selfxp34)" target="_blank">
+      <img src="https://www.internetmatters.org/wp-content/uploads/2020/01/Untitled-1-300x200.png" width="40" height="40" alt="VK Badge"/>
+    </a>
 
-<a href="https://instagram.com/https://instagram.com/selfxp34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/selfxp34" height="30" width="40" /></a>
+
 
 
 
