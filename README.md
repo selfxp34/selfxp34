@@ -17,7 +17,7 @@
 
 ## 🚀 Мои проекты
 
-### <img src="https://www.vlgcity.ru/favicon.svg" width="20" height="20"/>vlgcity.ru
+### <img src="https://www.vlgcity.ru/favicon.svg" width="25" height="25"/>vlgcity.ru
 - Web-ресурс, который предоставляет информацию, связанную с путешествиями и туризмом. - [https://github.com/selfxp34/website-vlgcity.ru] (https://vlgcity.ru)
 ### granitvolga.ru
 - Сайт для охранного предприятия. - [https://github.com/selfxp34/website-granit] (https://granitvolga.ru)
