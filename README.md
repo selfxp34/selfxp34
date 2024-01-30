@@ -18,17 +18,17 @@
 ## 🚀 Мои проекты
 
 ### vlgcity.ru
-- Web-ресурс, который предоставляет информацию, связанную с путешествиями и туризмом. - [https://github.com/selfxp34/website-vlgcity.ru] (https://vlgcity.ru)
+- Web-ресурс, который предоставляет информацию, связанную с путешествиями и туризмом. - https://github.com/selfxp34/website-vlgcity.ru (https://vlgcity.ru)
 ### granitvolga.ru
-- Сайт для охранного предприятия. - [https://github.com/selfxp34/website-granit] (https://granitvolga.ru)
+- Сайт для охранного предприятия. - https://github.com/selfxp34/website-granit (https://granitvolga.ru)
 ### uteplenie34.ru
-- Сайт для компании по утеплению домов. - [https://github.com/selfxp34/website-uteplenie34.ru] (https://uteplenie34.ru)
+- Сайт для компании по утеплению домов. - https://github.com/selfxp34/website-uteplenie34.ru (https://uteplenie34.ru)
 ### fasad-volgograd.ru
-- Сайт для компании по отделке фасадов домов. - [https://github.com/selfxp34/website-fasad-volgograd.ru] (https://fasad-volgograd.ru)
+- Сайт для компании по отделке фасадов домов. - https://github.com/selfxp34/website-fasad-volgograd.ru (https://fasad-volgograd.ru)
 ### aero134.ru
-- Лендинг сайт услуги по аэросъемки. - [https://github.com/selfxp34/website-aero134] ((https://aero134.ru)
+- Лендинг сайт услуги по аэросъемки. - https://github.com/selfxp34/website-aero134 ((https://aero134.ru)
 ### timofeinevskii.ru
-- Сайт для любителей котов. - [https://github.com/selfxp34/website-timofeinevskii] (https://timofeinevskii.ru)
+- Сайт для любителей котов. - https://github.com/selfxp34/website-timofeinevskii (https://timofeinevskii.ru)
 
 
 <br/>  
