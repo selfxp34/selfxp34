@@ -17,6 +17,9 @@
 
 ## 🚀 Мои проекты
 
+
+### shop-volgograd.ru
+-Инетернет магазин. Next-js React - https://github.com/selfxp34/eshop-next-main-main (https://shop-volgograd.ru/))
 ### vlgcity.ru
 - Web-ресурс, который предоставляет информацию, связанную с путешествиями и туризмом. - https://github.com/selfxp34/website-vlgcity.ru (https://vlgcity.ru)
 ### granitvolga.ru
